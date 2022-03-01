@@ -1,4 +1,4 @@
-import { ActionType, State, User } from "../../models/models";
+import { ActionType, State } from "../../models/models";
 
 interface Action {
   type: ActionType;
